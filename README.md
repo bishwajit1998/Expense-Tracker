@@ -43,7 +43,7 @@ Please follow these instructions for setup and running the application.
 
 Clone existing git repository by:
 
-`git clone
+`git clone https://github.com/bishwajit1998/Expense-Tracker
 
 Open the project in an IDE and Please wait for all depedencies to get downloaded.
 
